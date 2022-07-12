@@ -1,4 +1,4 @@
 def call(){
- echo "mvn clean package"
+ echo "mvn clean install"
  }
  
